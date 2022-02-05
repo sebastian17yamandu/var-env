@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Sebastian17yamandu\\Var-Env\\": "app/"
+      "Sebastian17yamandu\\VarEnv\\": "app/"
     }
   },
   "require": {
