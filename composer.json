@@ -9,7 +9,6 @@
             "email": "sebastian.tecinf@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Sebastian17yamandu\\VarEnv\\": "src/"
