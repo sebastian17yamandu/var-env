@@ -1,21 +1,17 @@
 {
-  "name": "sebastian17yamandu/var-env",
-  "description": "Simple library ENV VAR(Study)",
-  "type": "library",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Sebastião Medeiros",
-      "email": "sebastian.tecinf@gmail.com"
+    "name": "sebastian17yamandu/var-env",
+    "description": "Study",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastian17Yamandu",
+            "email": "sebastian.tecinf@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sebastian17yamandu\\VarEnv\\": "src/"
+        }
     }
-  ],
-  "minimum-stability": "stable",
-  "autoload": {
-    "psr-4": {
-      "Sebastian17yamandu\\VarEnv\\": "app/"
-    }
-  },
-  "require": {
-    "php": ">5.4"
-  }
 }
