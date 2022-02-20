@@ -13,7 +13,5 @@
         "psr-4": {
             "Sebastian17yamandu\\VarEnv\\": "src/"
         }
-    },
-    "require": {},
-    "minimum-stability": "dev"
+    }
 }
