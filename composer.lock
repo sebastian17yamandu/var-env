@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "8e5d72734b5e15b0ac92d407226f5d78",
+    "packages": [
+        {
+            "name": "sebastian17yamandu/var-env",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sebastian17yamandu/var-env.git",
+                "reference": "bec663a4674a90c6512282b5a3a4d41de92975fb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sebastian17yamandu/var-env/zipball/bec663a4674a90c6512282b5a3a4d41de92975fb",
+                "reference": "bec663a4674a90c6512282b5a3a4d41de92975fb",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Sebastian17yamandu\\VarEnv\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sebastian17Yamandu",
+                    "email": "sebastian.tecinf@gmail.com"
+                }
+            ],
+            "description": "Study",
+            "support": {
+                "issues": "https://github.com/sebastian17yamandu/var-env/issues",
+                "source": "https://github.com/sebastian17yamandu/var-env/tree/main"
+            },
+            "time": "2022-02-27T13:43:07+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "sebastian17yamandu/var-env": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
